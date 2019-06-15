@@ -27,7 +27,7 @@ My process for solving safety challenge is :
 ### Prediction idea
 
 1. Split driving data into non-overlap 120 time frames.
-2. Run model on each frames.
+2. Run model on every frame.
 3. Average the prediction. If the result is greater than 0.5, set BookingId to 1.
 
 ### Problem-solving
