@@ -40,4 +40,4 @@ to get all aspects during the driving trip before judging anything.
 
 Full code on Colab : https://colab.research.google.com/drive/1Li1QL085zn1zkJAz5igrWHP9uwTsy1mJ
 
-Email : supavish.pu548@cbs.chula.ac.th
+Email : supavish.pu584@cbs.chula.ac.th
