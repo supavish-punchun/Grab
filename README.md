@@ -32,7 +32,7 @@ My process for solving safety challenge is :
 
 ### Problem-solving
 As a driver, There are many reasons caused to driving dangerously.
-For example, In rush hour, Grab driver need to take a customer to airport. 
+For example, In rush hour, Grab driver need to take a customer to the airport. 
 So driver need to drive with high speed and acceleration. As a result, ML model will predict the BookingId trip to be dangerous.
 However, This is customer satisfaction to arrive the airport on time. To summerise, The best ways to detect if
 the driver is driving dangerously. To be fair, we should use ML model with other data sourcess (ex. customer review or camara)
