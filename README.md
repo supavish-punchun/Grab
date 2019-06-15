@@ -3,7 +3,7 @@ This is step by step instruction on how to evaluate my model with test dataset.
 
 1. Open Ten.ipynb in jupyter notebook
 2. Run Import packages and functions
-3. Scroll dowm to Test and import your test data
+3. Scroll down to Test and import your test data
 4. import my_model3.h5 model 
 5. run all cells below.
 
