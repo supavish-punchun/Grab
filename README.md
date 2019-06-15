@@ -38,3 +38,5 @@ However, This is customer satisfaction to arrive the airport on time. To summeri
 the driver is driving dangerously. To be fair, we should use ML model with other data sourcess (ex. customer review or camara)
 to get all aspects during the driving trip before judging anything. 
 
+Full code on Colab : https://colab.research.google.com/drive/1Li1QL085zn1zkJAz5igrWHP9uwTsy1mJ
+Email : supavish.pu548@cbs.chula.ac.th
